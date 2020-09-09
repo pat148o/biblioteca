@@ -1,2 +1,2 @@
-var x=2
-alert 
+var precio=2;
+alert ("hola mundo") 
